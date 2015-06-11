@@ -1,5 +1,5 @@
 # Androne
-The code for an android-phone-controlled UAV
+The code for an android-phone-controlled UAV. It uses the in-built gyro, accelerometer, magnetometer and gps to fly, and can be communicated with while flying by texting it certain commands. And it will text back its location at regular intervals, or on demand, so you won't lose it. :)
 
 The code is a bit of a mess but it works.
 
